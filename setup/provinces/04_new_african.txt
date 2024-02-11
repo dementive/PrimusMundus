@@ -1,4 +1,4 @@
-12883={ # Eastern Sahara
+﻿12883={ # Eastern Sahara
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
