@@ -1,61 +1,61 @@
-﻿12883={ # Eastern Sahara
+12883={ # Eastern Sahara
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 12884={ # Central Africa
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 12885={ # Atlas Mountains 7
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 12886={ # Atlas Mountains 8
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 12887={ # Atlas Mountains 9
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 12888={ # Atlas Mountains 10
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 12889={ # Gran Canaria
@@ -74,71 +74,71 @@
 12890={ # GUINEA_UPLANDS
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 12891={ # GUINEA_UPLANDS
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 12892={ # ASANTE_HILLS
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 12893={ # ASANTE_HILLS
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 12894={ # Chott el Djerid
-	terrain = "coastal_terrain"
+	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 12895={ # Lake Chad
-	terrain = "coastal_terrain"
+	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 12896={ # Tell Atlas Mountains 9
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 12897={ # GHADAMES
@@ -768,41 +768,41 @@
 12945={ # ERG-SHARQI
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 12946={ # ERG-MZABI
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 12947={ # ATLAS-AS-SAHRI
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 12948={ # ERG-GHARBI
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 12949={ # JEBEL_MOYA
@@ -834,21 +834,21 @@
 12951={ # BAYUDA_WEST
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 12952={ # DAR_HAMID
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 12953={ # JEBEL_ABU_NEGILA
@@ -2700,71 +2700,71 @@
 13095={ # DAHAR_WALATA
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13096={ # AGHARAF
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13097={ # TIRIS_DESERT
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13098={ # ERG_CHECH
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13099={ # ERG_IGUIDI
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13100={ # HAMADAT_DRAA
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13101={ # TANZEROUFT
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13102={ # TIDIKELT
@@ -2796,91 +2796,91 @@
 13104={ # ERG_ATLASI
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13105={ # ERG_TOUATI
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13106={ # HAMADAT_HAMRA
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13107={ # JEBEL_NAFUSA
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13108={ # IDEHAN_MURZUQ
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13109={ # SAHARAT_HAGGAR
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13110={ # SAHARAT_AIR
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13111={ # TALAK
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13112={ # TENERE_GHARBI
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13113={ # WADI_IRAWAN
@@ -2912,41 +2912,41 @@
 13115={ # TENERE_SHARQI
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13116={ # TIBESTI-DESERT
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13117={ # BODELE-DESERT
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13118={ # BAHR_EL-GHAZAL
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13119={ # KABARA
@@ -5292,31 +5292,31 @@
 13299={ # HODH_DESERT
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13300={ # INLAND_NIGER_DELTA
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13301={ # SIKASSO_HILLS
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13302={ # DHRAINA
@@ -6687,31 +6687,31 @@
 13407={ # MUERA_MTS
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13408={ # MANDARA_MTS
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13409={ # DARFUR_DESERT
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13410={ # ULAIRA
@@ -7926,21 +7926,21 @@
 13503={ # VOLTA_HIGHLAND
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13504={ # GAMBAGA_ESCARPMENT
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13505={ # GANEBOAFO
@@ -9103,61 +9103,61 @@
 13594={ # NIGER_MARSHES
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13595={ # ASANTE_HILLS
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13596={ # TOGO_UPLANDS
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13597={ # JOS_PLATEAU
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13598={ # NIMBA_MOUNTS
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13599={ # GUINEA_UPLANDS
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13600={ # LOWER_GUARA
@@ -12816,81 +12816,81 @@
 13881={ # METEKEL_DESERT
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13882={ # CHALBI_DESERT
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13883={ # OGADEN_DESERT
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13884={ # AHMAR_MOUNTAINS
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13885={ # MENDEBO
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13886={ # SHOA_HIGHLANDS
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13887={ # GOJJAM_HIGHLANDS
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13888={ # WOLLO_HIGHLANDS
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13889={ # YABELO
@@ -13701,82 +13701,82 @@
 
 13951={ # LAKE_TANA
 	terrain = "coastal_terrain"
-	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	culture = ""
+	religion = ""
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13952={ # ABAYA_LAKE
 	terrain = "coastal_terrain"
-	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	culture = ""
+	religion = ""
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13953={ # ABIJATA_SHALLA
 	terrain = "coastal_terrain"
-	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	culture = ""
+	religion = ""
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13954={ # ZIWAY_LAKE
 	terrain = "coastal_terrain"
-	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	culture = ""
+	religion = ""
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13955={ # LAKE_TURKANA
 	terrain = "coastal_terrain"
-	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	culture = ""
+	religion = ""
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13956={ # sea_somali_sea
 	terrain = "coastal_terrain"
-	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	culture = ""
+	religion = ""
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13957={ # ATLANTIC
 	terrain = "coastal_terrain"
-	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	culture = ""
+	religion = ""
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13958={ # East African Southern Impassable
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	religion = "carthaginian_religion"
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13959={ # Tenerife
@@ -13833,12 +13833,12 @@
 
 13963={ # Lagos Lagoons
 	terrain = "coastal_terrain"
-	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
+	culture = ""
+	religion = ""
+	trade_goods = ""
 	civilization_value = 0
 	barbarian_power = 0
-	province_rank = "settlement"
+	province_rank = ""
 }
 
 13964={ # Zarmatarey
