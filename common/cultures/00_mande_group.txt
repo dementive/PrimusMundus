@@ -1,4 +1,4 @@
-aksumite_group = {
+mande_group = {
 	color = hsv { 0.3  0.2  0.7 }
 	
 	levy_template = levy_ethiopian
