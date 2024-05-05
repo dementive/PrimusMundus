@@ -1,11 +1,11 @@
-songhai_group = {
+kru_group = {
 	color = hsv { 0.3  0.2  0.7 }
 	
 	levy_template = levy_ethiopian
 	
-	primary = spearmen
-	second = light_infantry
-	flank = archers
+	primary = light_infantry
+	second = archers
+	flank = camels
 
 	primary_navy = tetrere
 	secondary_navy = octere
@@ -59,13 +59,16 @@ songhai_group = {
 	}
 
 	culture = {
-		bentia = { } 
-		bura = { } 
-		bozo = { } 
+		aizi = { }
+		kuwaa = { }
+		betebakwe = { } #eastern kru
+		jabo = { } #grebo
+		wee = { }
+		bassa = { }
 	}
 	
 	barbarian_names = { 
-		BURA BENTIA
+		KRU
 	}
 	
 	graphical_culture = nubian_gfx

@@ -1,4 +1,4 @@
-songhai_group = {
+gur_group = {
 	color = hsv { 0.3  0.2  0.7 }
 	
 	levy_template = levy_ethiopian
@@ -59,13 +59,15 @@ songhai_group = {
 	}
 
 	culture = {
-		bentia = { } 
-		bura = { } 
-		bozo = { } 
+		bwa = { } 
+		oti = { }
+		grusi = { }
+		koromfe = { } #including lost probably Gur speakers in Mali pre-Dogon
+		mabia = { } #southern Gur
 	}
 	
 	barbarian_names = { 
-		BURA BENTIA
+		GUR
 	}
 	
 	graphical_culture = nubian_gfx
