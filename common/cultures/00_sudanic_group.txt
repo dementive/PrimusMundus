@@ -1,11 +1,11 @@
-yeainoi_group = {
+sudanic_group = {
 	color = hsv { 0.3  0.2  0.7 }
 	
 	levy_template = levy_ethiopian
 	
 	primary = light_infantry
 	second = archers
-	flank = camels
+	flank = spearmen
 
 	primary_navy = tetrere
 	secondary_navy = octere
@@ -59,15 +59,15 @@ yeainoi_group = {
 	}
 
 	culture = {
-		yoruba = { }
-		gbe = { }
-		nupo = { }
-		edo = { }
-		igbo = { }
+		tora = { }
+        midobi = { }
+        zankori = { }
+        kordofani = { }
+		daju = { }
 	}
 	
 	barbarian_names = { 
-		YORUBA IGBO EDO OKO NUPO IDO AKPES AYERE GBE
+		TUBU DAZA KANURI KANEMBU
 	}
 	
 	graphical_culture = nubian_gfx
