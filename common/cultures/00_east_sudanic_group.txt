@@ -1,11 +1,11 @@
-chadic_group = {
+east_sudanic_group = {
 	color = hsv { 0.3  0.2  0.7 }
 	
 	levy_template = levy_ethiopian
 	
 	primary = light_infantry
-	second = spearmen
-	flank = archers
+	second = archers
+	flank = spearmen
 
 	primary_navy = tetrere
 	secondary_navy = octere
@@ -59,15 +59,15 @@ chadic_group = {
 	}
 
 	culture = {
-		badewazaar = { }
-        biumandara = { }
-		hadjaria = { }
-        hausa = { }
-        masa = { }
+		tora = { }
+        midobi = { }
+        zankori = { }
+        kordofani = { }
+		daju = { }
 	}
 	
 	barbarian_names = { 
-		SAO
+		TUBU DAZA KANURI KANEMBU
 	}
 	
 	graphical_culture = nubian_gfx

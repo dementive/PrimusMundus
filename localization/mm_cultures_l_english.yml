@@ -1,0 +1,165 @@
+﻿l_english:
+ #GROUPS
+  central_sudanic_group:0 "Central Sudanic"
+  chadic_group:0 "Chadic"
+  congo_group:0 "Congo"
+  dogon_group:0 "Dogon"
+  east_sudanic_group:0 "East Sudanic"
+  guinean_group:0 "Guinean"
+  gur_group:0 "Gur"
+  ijaw_group:0 "Ijaw"
+  kru_group:0 "Kru"
+  kwa_group:0 "Kwa"
+  manda_group:0 "Mande"
+  nilote_group:0 "Nilote"
+  nok_group:0 "Nok"
+  saharan_group:0 "Saharan"
+  senegambian_group:0 "Senegambian"
+  songhai_group:0 "Songhai"
+  tuareg_group:0 "Tuareg"
+  ubangian_group:0 "Ubangian"
+  yeainoi_group:0 "Yeai-Noi"
+
+ #Central Sudanic
+ bagirmi:0 "Bagirmi"
+ birri:0 "Birri"
+ kreshaja:0 "Kresh-Aja"
+ mang:0 "Mang"
+ morulendu:0 "Moru-Lendu"
+ #Chadic
+ badewazaar:0 "Badewazaar"
+ biumandara:0 "Biumandara"
+ hadjaria:0 "Hadjaria"
+ hausa:0 "Hausa
+ masa:0 "Masa"
+ #Congo
+ #Dogon
+ #East Sudanic
+ #Guinean
+ #Gur
+ #Ijaw
+ #Kru
+ #Kwa
+ #Mande
+ #Nilote
+ #Nok
+ #Saharan
+ #Senegambian
+ #Songhai
+ #Tuareg
+ #Ubangian
+ #Yeainoi
+
+ #Central Sudanic
+ ARMY_NAME_central_sudanic_group:0 "$NUM$$ORDER$ Army"
+ NAVY_NAME_central_sudanic_group:0 "$NUM$$ORDER$ Navy"
+ COHORT_NAME_central_sudanic_group:1 "$NUM$$ORDER$ Cohort"
+ LEGION_NAME_central_sudanic_group:0 "$NUM$$ORDER$ Cohort"
+
+ #Chadic
+ ARMY_NAME_chadic_group:0 "$NUM$$ORDER$ Army"
+ NAVY_NAME_chadic_group:0 "$NUM$$ORDER$ Navy"
+ COHORT_NAME_chadic_group:1 "$NUM$$ORDER$ Cohort"
+ LEGION_NAME_chadic_group:0 "$NUM$$ORDER$ Cohort"
+
+  #Congo
+ ARMY_NAME_congo_group:0 "$NUM$$ORDER$ Army"
+ NAVY_NAME_congo_group:0 "$NUM$$ORDER$ Navy"
+ COHORT_NAME_congo_group:1 "$NUM$$ORDER$ Cohort"
+ LEGION_NAME_congo_group:0 "$NUM$$ORDER$ Cohort"
+
+  #Dogon
+ ARMY_NAME_dogon_group:0 "$NUM$$ORDER$ Army"
+ NAVY_NAME_dogon_group:0 "$NUM$$ORDER$ Navy"
+ COHORT_NAME_dogon_group:1 "$NUM$$ORDER$ Cohort"
+ LEGION_NAME_dogon_group:0 "$NUM$$ORDER$ Cohort"
+
+  #East Sudanic
+ ARMY_NAME_east_sudanic_group:0 "$NUM$$ORDER$ Army"
+ NAVY_NAME_east_sudanic_group:0 "$NUM$$ORDER$ Navy"
+ COHORT_NAME_east_sudanic_group:1 "$NUM$$ORDER$ Cohort"
+ LEGION_NAME_east_sudanic_group:0 "$NUM$$ORDER$ Cohort"
+
+  #Guinean
+ ARMY_NAME_guinean_group:0 "$NUM$$ORDER$ Army"
+ NAVY_NAME_guinean_group:0 "$NUM$$ORDER$ Navy"
+ COHORT_NAME_guinean_group:1 "$NUM$$ORDER$ Cohort"
+ LEGION_NAME_guinean_group:0 "$NUM$$ORDER$ Cohort"
+
+  #Gur
+ ARMY_NAME_gur_group:0 "$NUM$$ORDER$ Army"
+ NAVY_NAME_gur_group:0 "$NUM$$ORDER$ Navy"
+ COHORT_NAME_gur_group:1 "$NUM$$ORDER$ Cohort"
+ LEGION_NAME_gur_group:0 "$NUM$$ORDER$ Cohort"
+
+  #Ijaw
+ ARMY_NAME_ijaw_group:0 "$NUM$$ORDER$ Army"
+ NAVY_NAME_ijaw_group:0 "$NUM$$ORDER$ Navy"
+ COHORT_NAME_ijaw_group:1 "$NUM$$ORDER$ Cohort"
+ LEGION_NAME_ijaw_group:0 "$NUM$$ORDER$ Cohort"
+
+  #Kru
+ ARMY_NAME_kru_group:0 "$NUM$$ORDER$ Army"
+ NAVY_NAME_kru_group:0 "$NUM$$ORDER$ Navy"
+ COHORT_NAME_kru_group:1 "$NUM$$ORDER$ Cohort"
+ LEGION_NAME_kru_group:0 "$NUM$$ORDER$ Cohort"
+
+  #Kwa
+ ARMY_NAME_kwa_group:0 "$NUM$$ORDER$ Army"
+ NAVY_NAME_kwa_group:0 "$NUM$$ORDER$ Navy"
+ COHORT_NAME_kwa_group:1 "$NUM$$ORDER$ Cohort"
+ LEGION_NAME_kwa_group:0 "$NUM$$ORDER$ Cohort"
+
+  #Mande
+ ARMY_NAME_mande_group:0 "$NUM$$ORDER$ Army"
+ NAVY_NAME_mande_group:0 "$NUM$$ORDER$ Navy"
+ COHORT_NAME_mande_group:1 "$NUM$$ORDER$ Cohort"
+ LEGION_NAME_mande_group:0 "$NUM$$ORDER$ Cohort"
+
+  #Nilote
+ ARMY_NAME_nilote_group:0 "$NUM$$ORDER$ Army"
+ NAVY_NAME_nilote_group:0 "$NUM$$ORDER$ Navy"
+ COHORT_NAME_nilote_group:1 "$NUM$$ORDER$ Cohort"
+ LEGION_NAME_nilote_group:0 "$NUM$$ORDER$ Cohort"
+
+  #Nok
+ ARMY_NAME_nok_group:0 "$NUM$$ORDER$ Army"
+ NAVY_NAME_nok_group:0 "$NUM$$ORDER$ Navy"
+ COHORT_NAME_nok_group:1 "$NUM$$ORDER$ Cohort"
+ LEGION_NAME_nok_group:0 "$NUM$$ORDER$ Cohort"
+
+  #Saharan
+ ARMY_NAME_saharan_group:0 "$NUM$$ORDER$ Army"
+ NAVY_NAME_saharan_group:0 "$NUM$$ORDER$ Navy"
+ COHORT_NAME_saharan_group:1 "$NUM$$ORDER$ Cohort"
+ LEGION_NAME_saharan_group:0 "$NUM$$ORDER$ Cohort"
+
+  #Senegambian
+ ARMY_NAME_senegambian_group:0 "$NUM$$ORDER$ Army"
+ NAVY_NAME_senegambian_group:0 "$NUM$$ORDER$ Navy"
+ COHORT_NAME_senegambian_group:1 "$NUM$$ORDER$ Cohort"
+ LEGION_NAME_senegambian_group:0 "$NUM$$ORDER$ Cohort"
+
+  #Songhai
+ ARMY_NAME_songhai_group:0 "$NUM$$ORDER$ Army"
+ NAVY_NAME_songhai_group:0 "$NUM$$ORDER$ Navy"
+ COHORT_NAME_songhai_group:1 "$NUM$$ORDER$ Cohort"
+ LEGION_NAME_songhai_group:0 "$NUM$$ORDER$ Cohort"
+
+  #Tuareg
+ ARMY_NAME_tuareg_group:0 "$NUM$$ORDER$ Army"
+ NAVY_NAME_tuareg_group:0 "$NUM$$ORDER$ Navy"
+ COHORT_NAME_tuareg_group:1 "$NUM$$ORDER$ Cohort"
+ LEGION_NAME_tuareg_group:0 "$NUM$$ORDER$ Cohort"
+
+  #Ubangian
+ ARMY_NAME_ubangian_group:0 "$NUM$$ORDER$ Army"
+ NAVY_NAME_ubangian_group:0 "$NUM$$ORDER$ Navy"
+ COHORT_NAME_ubangian_group:1 "$NUM$$ORDER$ Cohort"
+ LEGION_NAME_ubangian_group:0 "$NUM$$ORDER$ Cohort"
+
+  #Yeainoi
+ ARMY_NAME_yeainoi_group:0 "$NUM$$ORDER$ Army"
+ NAVY_NAME_yeainoi_group:0 "$NUM$$ORDER$ Navy"
+ COHORT_NAME_yeainoi_group:1 "$NUM$$ORDER$ Cohort"
+ LEGION_NAME_yeainoi_group:0 "$NUM$$ORDER$ Cohort"

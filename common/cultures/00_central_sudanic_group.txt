@@ -1,4 +1,4 @@
-sudanic_group = {
+central_sudanic_group = {
 	color = hsv { 0.3  0.2  0.7 }
 	
 	levy_template = levy_ethiopian
@@ -59,15 +59,15 @@ sudanic_group = {
 	}
 
 	culture = {
-		tora = { }
-        midobi = { }
-        zankori = { }
-        kordofani = { }
-		daju = { }
+		bagirmi = { } #Sara bigirmi bongo group
+		birri = { } #and sinyar
+		kreshaja = { }
+        mang = { } #mangbetu and mangbutu
+		morulendu = { } #moru lendu and madi
 	}
 	
 	barbarian_names = { 
-		TUBU DAZA KANURI KANEMBU
+		SARA BONGO BAGIRMI SINYAR BIRRI MANGBETU MANGBUTU LENDU MORU MADI ASUA EFE
 	}
 	
 	graphical_culture = nubian_gfx
