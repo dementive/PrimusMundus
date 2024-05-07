@@ -61,7 +61,7 @@ mande_group = {
 	culture = {
 		tichitt = { }
         mema = { }
-        bozo = { }
+        #bozo = { }
         soninke = { }
         malinke = { }
 	}
