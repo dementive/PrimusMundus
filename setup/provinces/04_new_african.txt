@@ -13919,3 +13919,627 @@
 	}
 }
 
+13970={ # Bamenda
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+13971={ # Toala Island
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+13972={ # i dont know 1
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+13973={ # i dont know 2
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+13974={ # Bissiyang
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+13975={ # Obobongo
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+13976={ # i dont know 3
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+13977={ # i dont know 4
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+13978={ # i dont know 5
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+13979={ # i dont know 6
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+13980={ # i dont know 7
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+13981={ # i dont know 8
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+13982={ # i dont know 9
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+13983={ # i dont know 10
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+13984={ # i dont know 11
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+13985={ # i dont know 12
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+13986={ # i dont know 13
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+13987={ # i dont know 14
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+13988={ # i dont know 15
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+13989={ # i dont know 16
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+13990={ # i dont know 17
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+13991={ # i dont know 18
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+13992={ # i dont know 19
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+13993={ # i dont know 20
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+13994={ # i dont know 21
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+13995={ # i dont know 22
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+13996={ # i dont know 23
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+13997={ # i dont know 24
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+13998={ # i dont know 25
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+13999={ # i dont know 26
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+14000={ # i dont know 27
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+14001={ # i dont know 28
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+14002={ # i dont know 29
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+14003={ # i dont know 30
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+14004={ # i dont know 31
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+14005={ # Nana-Mode
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+14006={ # i dont know 33
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+14007={ # i dont know 34
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+14008={ # i dont know 35
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+14009={ # i dont know 36
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+14010={ # i dont know 37
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+14011={ # i dont know 38
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+14012={ # i dont know 39
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+14013={ # i dont know 40
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+14014={ # i dont know 41
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+14015={ # i dont know 42
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+14016={ # i dont know 43
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+14017={ # i dont know 44
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
