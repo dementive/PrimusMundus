@@ -1,86 +1,3 @@
-12883={ # Eastern Sahara
-	terrain = "impassable_terrain"
-	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = ""
-	civilization_value = 0
-	barbarian_power = 0
-	province_rank = ""
-}
-
-12884={ # Central Africa
-	terrain = "impassable_terrain"
-	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = ""
-	civilization_value = 0
-	barbarian_power = 0
-	province_rank = ""
-}
-
-12885={ # Atlas Mountains 7
-	terrain = "impassable_terrain"
-	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = ""
-	civilization_value = 0
-	barbarian_power = 0
-	province_rank = ""
-}
-
-12886={ # Atlas Mountains 8
-	terrain = "impassable_terrain"
-	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = ""
-	civilization_value = 0
-	barbarian_power = 0
-	province_rank = ""
-}
-
-12887={ # Atlas Mountains 9
-	terrain = "impassable_terrain"
-	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = ""
-	civilization_value = 0
-	barbarian_power = 0
-	province_rank = ""
-}
-
-12888={ # Atlas Mountains 10
-	terrain = "impassable_terrain"
-	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = ""
-	civilization_value = 0
-	barbarian_power = 0
-	province_rank = ""
-}
-
-12889={ # Gran Canaria
-	terrain = "plains"
-	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = "grain"
-	civilization_value = 10
-	barbarian_power = 0
-	province_rank = "settlement"
-	tribesmen = {
-		amount = 1
-	}
-}
-
-12890={ # GUINEA_UPLANDS
-	terrain = "impassable_terrain"
-	culture = "carthaginian"
-	religion = "carthaginian_pantheon"
-	trade_goods = ""
-	civilization_value = 0
-	barbarian_power = 0
-	province_rank = ""
-}
-
 12891={ # GUINEA_UPLANDS
 	terrain = "impassable_terrain"
 	culture = "carthaginian"
@@ -414,7 +331,7 @@
 	}
 }
 
-12918={ # TARUDANT
+12918={ # Gran Canaria
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
