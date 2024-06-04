@@ -14460,3 +14460,172 @@
 	}
 }
 
+14018={ # Ksabi
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+14019={ # Timoudi
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+14020={ # Tamtert
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+14021={ # Igli
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+14022={ # Beni Abbes
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+14023={ # M'guiden
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+14024={ # Tabelkoza
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+14025={ # Timimoun
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+14026={ # Charouine
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+14027={ # Mio
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+14028={ # Metarfa
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+14029={ # Tsabit
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
+14030={ # Djedid
+	terrain = "plains"
+	culture = "carthaginian"
+	religion = "carthaginian_pantheon"
+	trade_goods = "grain"
+	civilization_value = 10
+	barbarian_power = 0
+	province_rank = "settlement"
+	tribesmen = {
+		amount = 1
+	}
+}
+
