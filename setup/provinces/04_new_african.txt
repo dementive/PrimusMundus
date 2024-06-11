@@ -14629,3 +14629,380 @@
 	}
 }
 
+14031={ #Haouch
+	terrain="desert"
+	culture="gaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14032={ #Still
+	terrain="desert"
+	culture="gaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14033={ #Mghair
+	terrain="oasis"
+	culture="gaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14034={ #Djamaa
+	terrain="desert"
+	culture="gaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14035={ #Mrara
+	terrain="desert"
+	culture="gaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14036={ #Touggourt
+	terrain="oasis"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14037={ #Khobna
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14038={ #Ouensa
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14039={ #Oued
+	terrain="oasis"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14040={ #Reguiba
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14041={ #Magrane
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14042={ #Goug
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14043={ #Alia
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14044={ #Hajira
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14045={ #Guerrara
+	terrain="oasis"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14046={ #Sahane
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14047={ #Aroui
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14048={ #Ardjoun
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14049={ #Ngoussa
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14050={ #Ouargla
+	terrain="oasis"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14051={ #Zelfana
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14052={ #Ghardaia
+	terrain="oasis"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14053={ #Berriane
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14054={ #Rmel
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14055={ #Dahoua
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14056={ #Metlili
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14057={ #Sebseb
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14058={ #Brhel
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14059={ #Mansoura
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+

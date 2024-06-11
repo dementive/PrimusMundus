@@ -65,6 +65,7 @@ tuareg_group = {
         tademait = { }
 		tassili = { }
 		eglab = { }
+		melanogaetuli = { }
 	}
 	
 	barbarian_names = { 
