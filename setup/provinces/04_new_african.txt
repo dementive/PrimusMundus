@@ -15006,3 +15006,159 @@
 	}
 }
 
+14060={ #Fahel
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14061={ #Djediba
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14062={ #Naqqazah
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14063={ #Sardalas
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14064={ #Sardalas
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14065={ #Tulillah
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14066={ #Ghat
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14067={ #Fewet
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14068={ #Aghram Nadariff
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14069={ #Barkat
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14070={ #Tin Alkoum
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+14071={ #Toulout
+	terrain="desert"
+	culture="melanogaetulian"
+	religion="berber_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
