@@ -937,7 +937,7 @@
 	}
 }
 
-12966={ # TUMMO
+12966={ # Abelouah
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
@@ -950,7 +950,7 @@
 	}
 }
 
-12967={ # SAKADAME
+12967={ # Isten
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
@@ -963,7 +963,7 @@
 	}
 }
 
-12968={ # GISSEBI
+12968={ # Idles
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
@@ -976,7 +976,7 @@
 	}
 }
 
-12969={ # DIRKU
+12969={ # Tezeit
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
@@ -989,7 +989,7 @@
 	}
 }
 
-12970={ # BILMA
+12970={ # Tazrouk
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
@@ -1002,7 +1002,7 @@
 	}
 }
 
-12971={ # DIBELA
+12971={ # Highafok
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
@@ -1015,7 +1015,7 @@
 	}
 }
 
-12972={ # GHAT
+12972={ # Ahaggar
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
@@ -1028,7 +1028,7 @@
 	}
 }
 
-12973={ # AL-FEWET
+12973={ # Kaoukane
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
@@ -1041,7 +1041,7 @@
 	}
 }
 
-12974={ # AL-BARKAT
+12974={ # Tenefek
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
@@ -1054,7 +1054,7 @@
 	}
 }
 
-12975={ # DJANET
+12975={ # Sakouane
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
@@ -1067,7 +1067,7 @@
 	}
 }
 
-12976={ # EFERI
+12976={ # Ekker
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
@@ -1106,7 +1106,7 @@
 	}
 }
 
-12979={ # ADRAR_TIMMI
+12979={ # Ilamane
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
@@ -1444,7 +1444,7 @@
 	}
 }
 
-13005={ # KORO_TORO
+13005={ # Abalessa
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
@@ -1457,7 +1457,7 @@
 	}
 }
 
-13006={ # BORKOU
+13006={ # Tit
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
@@ -1470,7 +1470,7 @@
 	}
 }
 
-13007={ # FAYA
+13007={ # Tamanrasset
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
@@ -1483,7 +1483,7 @@
 	}
 }
 
-13008={ # AIN_GALAKKA
+13008={ # Amsel
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
@@ -1496,7 +1496,7 @@
 	}
 }
 
-13009={ # TIBESTI-SOUTH
+13009={ # Tarhaouhaout
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
@@ -1509,7 +1509,7 @@
 	}
 }
 
-13010={ # TIBESTI-CENTRAL
+13010={ # Tahifet
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
