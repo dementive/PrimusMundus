@@ -1522,7 +1522,7 @@
 	}
 }
 
-13011={ # BARDAI
+13011={ # Tamtog
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
@@ -2315,7 +2315,7 @@
 	}
 }
 
-13072={ # MARANDET
+13072={ # Timmissao
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
@@ -2328,7 +2328,7 @@
 	}
 }
 
-13073={ # AGADEZ
+13073={ # Tamada
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
@@ -2341,7 +2341,7 @@
 	}
 }
 
-13074={ # TAKKEDA
+13074={ # Tinzaouten
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
@@ -2354,7 +2354,7 @@
 	}
 }
 
-13075={ # AIR
+13075={ # Boughessa
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
@@ -2367,7 +2367,7 @@
 	}
 }
 
-13076={ # TESSALIT
+13076={ # Djezzal
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
@@ -2380,7 +2380,7 @@
 	}
 }
 
-13077={ # ADRAR_IFOGHAS
+13077={ # Timiaouine
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
@@ -2393,7 +2393,7 @@
 	}
 }
 
-13078={ # TADMEKKA
+13078={ # Mokhtar
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
@@ -2406,7 +2406,7 @@
 	}
 }
 
-13079={ # KIDAL
+13079={ # Tessalit
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
@@ -2684,7 +2684,7 @@
 	province_rank = ""
 }
 
-13102={ # TIDIKELT
+13102={ # Abanko
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
@@ -2697,7 +2697,7 @@
 	}
 }
 
-13103={ # HAMADAT_TINGHERT
+13103={ # Tadmekka
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
@@ -3503,7 +3503,7 @@
 	}
 }
 
-13168={ # KAWAR_ROAD
+13168={ # Kidal
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
@@ -3516,7 +3516,7 @@
 	}
 }
 
-13169={ # AIR_ROUTE
+13169={ # Darane
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
@@ -3529,7 +3529,7 @@
 	}
 }
 
-13170={ # FACHI
+13170={ # Tilemsi
 	terrain = "plains"
 	culture = "carthaginian"
 	religion = "carthaginian_pantheon"
